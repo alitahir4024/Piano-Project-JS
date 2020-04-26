@@ -12,3 +12,5 @@ Important HTML attributes used:
 
 1: data-
 https://www.w3schools.com/tags/att_global_data.asp
+2: <kbd>
+https://www.w3schools.com/tags/tag_kbd.asp
