@@ -19,7 +19,7 @@ This project is like an music app to practise basic piano skills.
 ### Important HTML attributes used:
 
 * data-: (https://www.w3schools.com/tags/att_global_data.asp).
-* <kbd>: (https://www.w3schools.com/tags/tag_kbd.asp).
+* kbd: (https://www.w3schools.com/tags/tag_kbd.asp).
 
 ### Project Prwview:
 
