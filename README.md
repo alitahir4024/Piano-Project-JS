@@ -1,16 +1,26 @@
 # Piano-Project-JS
-This project is like an music app to practise basic piano skills.This music app is developed by using pure JS skills.When user press any key between A to L a sound is produced.This project is to practise JS DOM.
 
+This project is like an music app to practise basic piano skills.
 
+### Developed with:
 
+* HTML.
+* CSS.
+* JS.
 
+### Silent Features:
 
+* Feel like real piano.
+* Produce sounds like basic piano.
+* Unique and dynaic project.
+* Unique CSS effects.
+* To practise JS DOM.
 
+### Important HTML attributes used:
 
-Important HTML attributes used:
+* data-: (https://www.w3schools.com/tags/att_global_data.asp).
+* <kbd>: (https://www.w3schools.com/tags/tag_kbd.asp).
 
+### Project Prwview:
 
-1: data-
-https://www.w3schools.com/tags/att_global_data.asp
-2: <kbd>
-https://www.w3schools.com/tags/tag_kbd.asp
+(https://ali-tahir4024.github.io/Piano-Project-JS/).
