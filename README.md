@@ -23,4 +23,4 @@ This project is like an music app to practise basic piano skills.
 
 ### Project Prwview:
 
-(https://ali-tahir4024.github.io/Piano-Project-JS/).
+[Piano Project JS](https://alitahir4024.github.io/Piano-Project-JS/)
